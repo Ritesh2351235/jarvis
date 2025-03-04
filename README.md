@@ -1,4 +1,4 @@
-# AI Voice Assistant Playground 
+# Jarvis - Your AI Voice Assistant 
 
 An interactive pipe for real-time voice conversations with AI, featuring live audio visualization, instant transcription, and dynamic responses.
 
